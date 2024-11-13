@@ -1,0 +1,65 @@
+= Terrains =
+Ground
+Brick Block
+Flip Block
+Question Block
+Hard Block
+Spike Trap
+Giant Iron Block
+Gentle Slope
+Steep Slope
+ON-OFF Switch
+IN-OUT Switch
+Lining On Block
+Lining Off Block
+Lining In Block
+Lining Out Block
+
+= Items = 
+Coin
+1UP Mushroom
+Super Mushroom
+Fire Flower
+Penguin Suit
+Chonk Mushroom
+Cape Feather
+Raccoon Leaf
+Propeller Mushroom
+SMB2 Mushroom 
+Frog Suit
+Master Sword
+Hammer Flower
+Power Balloon
+Super Acorn
+Blue Shell
+Mega Mushroom
+Cloud Flower
+Invincible Star
+Red Star
+Poison Mushroom
+Yoshi Egg
+Red Yoshi Egg
+Goomba Shoe
+Goombrat Stiletto
+Green Shell
+Red Shell
+Buzzy Shell
+
+= Enemies =
+Goomba
+Goombrat
+Galoomba
+Goombud
+Beanie
+Gold-Beanie
+Koopa Troopa
+Koopa Troopa
+Buzzy Beetle
+
+= Accessories = 
+Angry Sun
+Gold Moon
+
+= Goals =
+Goal Flagpole
+Goal Roulette

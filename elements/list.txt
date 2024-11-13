@@ -1,5 +1,0 @@
-= Tiles =
-Ground
-Brick Block
-Flip Block
-Question Block
